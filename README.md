@@ -67,6 +67,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/railaqa/railaqa/output/snake.svg" alt="Snake animation" />
-
-###
-A white circle with a dark file icon outlined in the center
