@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center" style="white-space: nowrap; overflow-x: auto; display: inline-block;">
+<div align="left" style="white-space: nowrap; overflow-x: auto; display: inline-block;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
