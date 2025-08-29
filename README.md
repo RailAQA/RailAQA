@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="200"/>
+</div>
+
 ###
 
 <br clear="both">
