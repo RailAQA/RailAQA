@@ -10,13 +10,12 @@
   <a href="t.me/rail_aqa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="telegram logo"  />
   </a>
+<p></p>
+<img src="https://komarev.com/ghpvc/?username=RailAQA&style=flat-square&color=green" alt=""/>
 </div>
-
-###
 
 <h1 align="center">I'm Rail Garipov 👋</h1>
 
-###
 
 <p align="left">Hi, my name is Rail Garipov. I am a Quality Assurance Engineer.<br>My mission is to do things in a stable and predictable way. I develop and support autotests, work with CI/CD, analyze bugs, and help the team release products without surprises.<br><br>🔹I write in [Python]<br>🔹I use [Selenium,Pytest, Allure]<br>🔹I believe in the balance between automation and exploratory testing</p>
 
