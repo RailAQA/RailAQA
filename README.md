@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/cd/3a/0a/cd3a0a431195f081347801b11b078897.gif" width="200"/>
 </div>
 
 ###
