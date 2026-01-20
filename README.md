@@ -25,6 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=plastic&logo=Selenium&logoColor=47C5FB)
+![Playwright](https://img.shields.io/badge/-Playwright-090909?style=plastic&logo=Playwright&logoColor=47C5FB)
 ![Requests](https://img.shields.io/badge/-Requests-090909?style=plastic&logo=Requests&logoColor=47C5FB)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=plastic&logo=Linux&logoColor=47C5FB)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=plastic&logo=Docker&logoColor=47C5FB)
