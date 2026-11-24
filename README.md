@@ -13,12 +13,6 @@
 <p></p>
 <img src="https://komarev.com/ghpvc/?username=RailAQA&style=flat-square&color=green" alt=""/>
 </div>
-
-<h1 align="center">I'm Rail Garipov 👋</h1>
-
-
-<p align="left">Hi, my name is Rail Garipov. I am a Quality Assurance Engineer.<br>My mission is to do things in a stable and predictable way. I develop and support autotests, work with CI/CD, analyze bugs, and help the team release products without surprises.<br><br>🔹I write in [Python]<br>🔹I use [Selenium,Pytest, Allure]<br>🔹I believe in the balance between automation and exploratory testing</p>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 ![VsCode](https://img.shields.io/badge/-VsCode-090909?style=plastic&logo=vscode&logoColor=47C5FB)
